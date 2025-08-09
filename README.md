@@ -1,3 +1,3 @@
-# hello-World
+# Hello-World
 UAT
 I am a student at UAT
